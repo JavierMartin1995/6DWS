@@ -1,4 +1,9 @@
 
+ # Proyecto 6DWS
+
+**Nombre y apellidos:** Reina gumucio
+=======
+
 Stefan Rost Cuadra
 =======
 
@@ -19,5 +24,6 @@ Apellidos: Paun Cezar
 Joan Mauriz Rodrigo
 =======
 Alex Dominguez Megino
+
 
 

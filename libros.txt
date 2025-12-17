@@ -1,4 +1,9 @@
 
+< Cien años de soledad - Gabriel García Márquez  >
+< El principito - Antoine de Saint-Exupéry > 
+< Don Quijote de la Mancha - Miguel de Cervantes >
+=======
+
 "Guerra y paz" de Tolstoi
 "Crimen y Castigo" de Dostoievski
 "Fortunata y Jacinta" de Benito Pérez Galdós
@@ -19,5 +24,6 @@ It
 La Chica del Lago
 Cuando el Viento Hable
 La Asistenta
+
 
 
